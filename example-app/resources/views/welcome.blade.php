@@ -38,7 +38,7 @@
                     </svg>
                 </div>
                 
-                <h1 style="text-align:center; color:White; margin-top:10px">Pagina de Laravel de Edgar</h1>
+                <h1 style="text-align:center; color:White; margin-top:10px">Pagina de Laravel de Edgar en branch feature1</h1>
                 
 
                 <div class="mt-16">
